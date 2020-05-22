@@ -35,7 +35,7 @@
 
 #### 2. 编辑工具
 
-   1. MarkDown编辑器：[Typora](https://typora.io（Window/Mac/Linux）)
+   1. MarkDown编辑器：[Typora](https://typora.io)
    2. MarkDown编辑器&Git管理：[VScode](https://code.visualstudio.com/)
    3. Git管理工具：[GitHub Desktop](https://desktop.github.com)
    4. Git工具: [Git](https://git-scm.com/)
