@@ -2,8 +2,8 @@
 
 本白皮书由云原生产业联盟技术专家负责编写和维护。
 
-### 目录 
-#### 0. [云原生发展现状及分析](云原生发展现状及分析.md) 
+### 目录
+#### 0. [云原生发展现状及分析](云原生发展现状及分析.md)
 #### 1. [云原生生态概述](云原生生态概括.md)
 #### 2. [云原生技术生态简介](云原生技术生态简介.md)
 #### 3. [云原生落地实践探索](云原生落地实践探索.md)
@@ -15,7 +15,7 @@
 >该白皮书基于Markdown的方式编写，采用GitHub进行统一的版本管理和变更管理。
 
 #### 1.协作流程
-1. 如何下载：`git@github.com:CloudNativeIndustryAlliance/whitepaper2020.git`
+1. 如何下载：`git clone git@github.com:CloudNativeIndustryAlliance/whitepaper2020.git`
 
 2. 如何贡献：
 
@@ -40,7 +40,7 @@
    3. Git管理工具：[GitHub Desktop](https://desktop.github.com)
    4. Git工具: [Git](https://git-scm.com/)
    
- #### 注意事项
+#### 注意事项
 
 ### 编写单位
 
