@@ -4,11 +4,13 @@ company: ["蚂蚁金服"]
 reviewers: [""]
 ---
 
+# 服务网格
+
 服务网格 （Service Mesh）是一个用于管理、观测、支持工作负载实例之间安全通信的基础设施层。在实践中，Service Mesh 通常以轻量级网络代理阵列的形式实现，这些代理与应用程序代码部署在一起，而对应用程序来说无需感知代理的存在。
 
 目前典型的 Service Mesh 开源项目有 [Istio](https://istio.io/) 和 [Linkerd](https://linkerd.io/)，其中 Linkerd 是 CNCF 托管的项目，其背后的公司 Bouyant，该公司也是 Service Mesh 的早期推广者，Istio 则是 Google、IBM、Lyft 共同开源的一个项目，目前正在快速地演进中。
 
-![Service Mesh的控制平面](imgs/servicemeshcp.png)
+![Service Mesh的控制平面](../imgs/servicemeshcp.png)
 
 Service Mesh 通常由两部分组成——控制平面和数据平面。数据平面运行在 Sidecar 中，Sidecar 作为一个独立的容器和业务系统运行在同一个 Kubernetes 的 Pod 里面，或者作为一个独立的进程和应用程序进程运行在同一个虚拟机上，其主要充当业务系统的网络流量的代理。传统 RPC 中的服务发现、限流、熔断、链路追踪等能力都会下沉到 Sidecar 中。Sidecar 为应用程序提供了一个透明的网络基础设施，让业务在低侵入或者零侵入的情况获得更健壮的网络通信能力。
 
