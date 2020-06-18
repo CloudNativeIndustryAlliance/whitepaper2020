@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url> <loc>https://cloudnativeindustryalliance.github.io/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/云原生新内涵-新机遇.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/新机遇下的云原生发展态势.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/云原生概念重定义.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/new-chanllenge.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/trend.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/ch1/cloud-native-definition.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/ch2/scale-analysis.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch2/云原生产业生态-生态概述.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch2/云原生产业生态-最终用户.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch2/云原生产业生态-生态伙伴.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -18,7 +19,7 @@
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/新技术-消息队列.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/新技术-云原生数据库.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/新技术-ServerlessContainer.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://cloudnativeindustryalliance.github.io/ch3/新技术-ServichMesh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/ch3/service-mesh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/云原生安全-容器安全.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/云原生安全-服务网格.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch3/云原生安全-可信计算.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -29,4 +30,5 @@
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch5/趋势二.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch5/趋势三.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://cloudnativeindustryalliance.github.io/ch5/趋势四.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://cloudnativeindustryalliance.github.io/appx1/案例分析.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
