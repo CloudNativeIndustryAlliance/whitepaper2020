@@ -19,7 +19,7 @@
 
 | 项目名称 | 项目LOGO | 项目概述 | 是否开源 | 主导公司 | Github地址|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-
+| Captain |   | Captain 是一个标准的 kubernetes controller, 以 helm v3 library 为基础，参考 helm v3 design proposal 而实现。用户可以通过 HelmRequest CRD 来描述对 helm charts 的部署需求，captain 负责同步 HelmRequest 的状态并部署 helm charts。 | 是 | 灵雀云 | https://github.com/alauda/captain |
 
 ### CI/CD
 
