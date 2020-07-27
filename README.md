@@ -38,6 +38,11 @@ git clone git@github.com:CloudNativeIndustryAlliance/whitepaper2020.git
 
 请访问[云原生用户调查报告](https://www.wjx.cn/jq/73578301.aspx)。
 
+## 云原生技术图景
+
+![云原生技术生态图景](https://github.com/CloudNativeIndustryAlliance/whitepaper2020/blob/master/imgs/landscapeV4.png)。
+
+
 ## 编写专家
 
 参与各章节编写的专家可更新此表。

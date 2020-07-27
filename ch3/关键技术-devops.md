@@ -1,8 +1,0 @@
----
-authors: [""]
-reviewers: [""]
----
-
-# DevOps
-
-TODO
