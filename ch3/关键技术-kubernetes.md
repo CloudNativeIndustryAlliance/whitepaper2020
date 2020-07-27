@@ -1,8 +1,0 @@
----
-authors: [""]
-reviewers: [""]
----
-
-# Kubernetes 
-
-TODO

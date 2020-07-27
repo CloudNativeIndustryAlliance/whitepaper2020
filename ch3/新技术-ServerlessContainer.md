@@ -1,7 +1,0 @@
----
-authors: [""]
-reviewers: [""]
----
-
-# ServerlessContainer
-
