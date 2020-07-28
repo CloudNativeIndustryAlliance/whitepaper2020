@@ -40,7 +40,7 @@ git clone git@github.com:CloudNativeIndustryAlliance/whitepaper2020.git
 
 ## 云原生技术图景
 
-![云原生技术生态图景](https://github.com/CloudNativeIndustryAlliance/whitepaper2020/blob/master/imgs/landscapeV4.png)。
+![云原生技术生态图景](../imgs/cnia_landscape.jpg)。
 
 
 ## 编写专家
